@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AUTO 2000</string>
+    <string name="details_button">AUTO 2000</string>
+    <string name="resep_title">AUTO 2000</string>
+    <string name="resep_description">AUTO 2000</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="kirimdata">Lihat Produk</string>
+    <string name="qr">Scan QR Promosi</string>
+    <string name="location">Location</string>
+    <string name="video">video</string>
+    <string name="appwidget_text">AUTO 2000</string>
+    <string name="add_widget">AUTO 2000</string>
+    <string name="configure">Configure</string>
+    <string name="alamat_text">"Nama: %1$s \n Alamat: %2$s \n Timestamp:%3$tr"</string>
+</resources>
+
